@@ -1,1 +1,1 @@
-MovieCity-  {https://movie-city-dun.vercel.app/}
+MovieCity-  https://movie-city-dun.vercel.app/
